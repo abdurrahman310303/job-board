@@ -71,7 +71,7 @@ job-board/
 Contributions are welcome! Feel free to fork the repo, make changes, and submit a pull request.
 
 ## Contact
-📧 Email: [Your Email]  
+📧 Email: abdur.codex@gmail.com  
 🔗 LinkedIn: [Abdur Rahman](www.linkedin.com/in/abdur-rahman-5b6907239)  
 🐙 GitHub: [abdurrahman310303](https://github.com/abdurrahman310303)  
 
